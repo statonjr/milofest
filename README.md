@@ -1,3 +1,3 @@
 # MILOFest 2010 Presentation
 
-Public repository for my [MILOFest](http://www.milofest.org) presentation.
+Public repository for my [MILOFest](http://www.milofest.com) presentation.
